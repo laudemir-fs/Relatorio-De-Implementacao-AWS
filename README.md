@@ -1,5 +1,4 @@
 # Relatorio-De-Implementacao-AWS
-RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS Data: 08/04/2024 Empresa: InterconSeg Segurança eletronica Responsável: Laudemir Francisco
 
